@@ -18,5 +18,5 @@ toast().show("Hello World!",2000,300,"Arial");
 4th Parameter - Add Font Family to Toast
 
 ## Requirement
-<!DOCTYPE html> - Add in the start of html code.
+DOCTYPE - Add in the start of html code.
 jQuery - Add jquery lib
