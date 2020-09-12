@@ -19,4 +19,5 @@ toast().show("Hello World!",2000,300,"Arial");
 
 ## Requirement
 DOCTYPE - Add in the start of html code.
+
 jQuery - Add jquery lib
