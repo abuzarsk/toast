@@ -7,7 +7,7 @@ Toast is a library which provides Android Toast in your website by adding the sc
 ## Usage
 
 ```Javascript
-toast().show("Hello World",2000,300,"Arial");
+toast().show("Hello World!",2000,300,"Arial");
 ```
 1st Parameter - Message to show in toast
 
