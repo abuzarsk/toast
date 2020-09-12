@@ -16,3 +16,7 @@ toast().show("Hello World!",2000,300,"Arial");
 3rd Parameter - Time to fadeout toast
 
 4th Parameter - Add Font Family to Toast
+
+## Requirement
+<!DOCTYPE html> - Add in the start of html code.
+jQuery - Add jquery lib
