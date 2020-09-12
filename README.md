@@ -15,4 +15,4 @@ toast().show("Hello World",2000,300,"Arial");
 
 3rd Parameter - Time to fadeout toast
 
-4th Parameter - Font in Toast
+4th Parameter - Add Font Family to Toast
