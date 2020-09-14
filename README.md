@@ -6,6 +6,12 @@ Toast is a library which provides Android Toast in your website by adding the sc
 ![](http://testingteam.online/readmeb.png)
 ## Usage
 
+Add this html tag before your html code just below 'body' tag
+
+```html
+<toast></toast>
+```
+Call this function with appropriate parameters
 ```Javascript
 toast().show("Hello World!",2000,300,"Arial");
 ```
